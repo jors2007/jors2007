@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jordy 👋
+# ¡Hola! Soy Jors B-)
 
 Estudiante de Ingeniería en Computación en ESPOL | Apasionado por el desarrollo de software y la resolución de problemas.
 
@@ -23,4 +23,4 @@ Estudiante de Ingeniería en Computación en ESPOL | Apasionado por el desarroll
 ---
 
 ### 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-andrade-a83b5a362/)
