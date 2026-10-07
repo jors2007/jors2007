@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5a85,100:2b9bd6&height=200&section=header&text=Jors%20B-)&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Jors B-)" />
+<img src="./header.svg" alt="Jors B-)" width="100%" />
 
-<a href="https://github.com/jors2007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=90&pause=1500&color=2B9BD6&center=true&vCenter=true&repeat=false&width=720&height=40&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+de+la+ESPOL" alt="Estudiante de Ingeniería en Computación de la ESPOL" /></a>
+<img src="./tagline.svg" alt="Estudiante de Ingeniería en Computación de la ESPOL" width="100%" />
+
+<img src="./pacman.svg" alt="Pac-Man comiéndose a los fantasmas" width="100%" />
 
 </div>
 
