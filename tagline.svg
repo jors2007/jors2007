@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="900" height="60" role="img" aria-label="Estudiante de Ingeniería en Computación de la ESPOL">
+  <defs>
+    <clipPath id="reveal">
+      <rect x="180" y="0" width="0" height="60">
+        <animate attributeName="width" values="0;580;580;0" keyTimes="0;0.5;0.9;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Insignia con borde que late -->
+  <rect x="120" y="8" width="660" height="44" rx="22" fill="#0d1b2a" stroke="#2b9bd6" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="2;3.2;2" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Prompt -->
+  <text x="150" y="37" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#2b9bd6">$</text>
+
+  <!-- Texto que se escribe -->
+  <g clip-path="url(#reveal)">
+    <text x="182" y="37" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#e6f6ff" textLength="560" lengthAdjust="spacing">Estudiante de Ingeniería en Computación · ESPOL</text>
+  </g>
+
+  <!-- Cursor que sigue al texto -->
+  <rect x="182" y="17" width="10" height="26" fill="#7fd0ff">
+    <animate attributeName="x" values="182;742;742;182" keyTimes="0;0.5;0.9;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
